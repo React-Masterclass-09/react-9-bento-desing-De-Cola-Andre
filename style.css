@@ -1,0 +1,21 @@
+.altezza{
+    height:30vh ;
+}
+.altezza1{
+    height:40vh;
+}
+body{
+    background-color: beige;
+}
+.card-custom{
+    height: 100%;
+    background-color: dimgrey;
+    color: white;
+    border: 2px solid black;
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: xx-large;
+}
